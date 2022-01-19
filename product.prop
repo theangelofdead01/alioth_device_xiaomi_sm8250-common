@@ -1,9 +1,6 @@
 # Blur
 ro.surface_flinger.supports_background_blur=1
 
-# Audio (Dolby)
-ro.control_privapp_permissions=log
-
 # Bluetooth
 ro.bluetooth.library_name=libbluetooth_qti.so
 
