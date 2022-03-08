@@ -158,7 +158,10 @@ PRODUCT_PACKAGES += \
     android.hardware.bluetooth.audio@2.1.vendor \
     android.hardware.soundtrigger@2.1-impl \
     android.hardware.soundtrigger@2.2-impl \
-    android.hardware.soundtrigger@2.3-impl
+    android.hardware.soundtrigger@2.3-impl \
+    vendor.qti.hardware.audiohalext@1.0 \
+    vendor.qti.hardware.audiohalext@1.0-impl \
+    vendor.qti.hardware.audiohalext-utils
 
 BOARD_SUPPORTS_SOUND_TRIGGER := true
 TARGET_USES_AOSP_FOR_AUDIO := true
